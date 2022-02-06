@@ -6,7 +6,7 @@ echo "\n";
 //variables 
 
 $myName = "Lucifer";
-$age = 30;
+$age = 25;
 $boyosh = "age";
 
 echo "The name's {$myName} and living for {$age} years";
